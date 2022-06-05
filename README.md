@@ -12,4 +12,4 @@ N05B - Psycholeptics drugs, Anxiolytic drugs
 N05C - Psycholeptics drugs, Hypnotics and sedatives drugs
 R03 - Drugs for obstructive airway diseases
 R06 - Antihistamines for systemic use
-Sales data are resampled to the hourly, daily, weekly and monthly periods.
+Sales data are resampled to the hourly, daily, weekly and monthly periods
