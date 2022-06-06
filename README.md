@@ -14,8 +14,7 @@ R03 - Drugs for obstructive airway diseases
 R06 - Antihistamines for systemic use
 Sales data are resampled to the hourly, daily, weekly and monthly periods.
 
-![](https://github.com/Prashant9511/Prashant_Mahajan_Portfolio/blob/bb6461325bce37cff13ae0da069002b233e38d72/Images/up1.png)
-
+![](https://github.com/Prashant9511/Prashant_Mahajan_Portfolio/blob/538c8be4fc4f3c9c09d16cfa3274ae96e45b8968/up1.png)
 
 f
 f
